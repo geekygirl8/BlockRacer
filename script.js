@@ -1,3 +1,5 @@
+// Javascript code start
+
 window.addEventListener("load",
  function() {
 
@@ -258,3 +260,5 @@ window.addEventListener("load",
   step();
  });
 console.log(gameLive);
+
+// END
